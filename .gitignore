@@ -61,3 +61,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Machine Learning Libraries
+autogluon/
